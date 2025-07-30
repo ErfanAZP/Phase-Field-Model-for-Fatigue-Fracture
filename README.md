@@ -20,10 +20,6 @@ KEY FEATURES:
 - VTK output for visualization in ParaView
 - CSV output for post-processing and analysis
 
-MATERIAL MODELS:
-- Brittle fracture with phase field regularization 
-- Configurable material parameters (E, ν, Gc, ℓ, etc.)
-
 CITATION:
 If you use this code in your research, please cite the following paper:
 
