@@ -1,4 +1,3 @@
-#=
 ================================================================================
 Phase Field Fatigue Fracture Model 
 ================================================================================
@@ -55,4 +54,3 @@ USAGE:
 More information regarding FEM implementation using Ferrite.jl can be found in their official webpage:
 https://ferrite-fem.github.io/Ferrite.jl/stable/
 ================================================================================
-=#
