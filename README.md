@@ -1,6 +1,4 @@
-================================================================================
 Phase Field Fatigue Fracture Model 
-================================================================================
 
 DESCRIPTION:
 This code implements a phase field method for simulating high-cycle fatigue 
@@ -53,4 +51,4 @@ USAGE:
 * Please note that Abaqus .inp file is used in this file, while alternative mesh formats such as GMSH (.msh) will also be supported via Ferrite.jl
 More information regarding FEM implementation using Ferrite.jl can be found in their official webpage:
 https://ferrite-fem.github.io/Ferrite.jl/stable/
-================================================================================
+
